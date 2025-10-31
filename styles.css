@@ -1,0 +1,17 @@
+/* Custom Styles for the Contact Form */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+input, textarea {
+    border-width: 1px;
+    border-radius: 4px;
+}
+
+button {
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: rgb(37, 99, 235); /* A darker shade of blue on hover */
+}
